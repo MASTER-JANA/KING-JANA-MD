@@ -31,7 +31,7 @@
 
 *_Start by forking this repository to your own GitHub account. Click the button below to fork:_*
 
-  <a href="https://github.com/MASTER-JANA/KING-JANA-MD/fork"><img src="https://img.shields.io/github/forks/MASTER-JANA/KING-JANA-MD?style=for-the-badge&logo=github&color=4c1&label=Fork%20KING-JANA MD" alt="Fork KING JANA MD" /></a>
+  <a href="https://github.com/MASTER-JANA/KING-JANA-MD/fork"><img src="https://img.shields.io/github/forks/MASTER-JANA/KING-JANA-MD?style=for-the-badge&logo=github&color=4c1&label=Fork%20KING-JANA" alt="Fork KING JANA MD" /></a>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/>
 
