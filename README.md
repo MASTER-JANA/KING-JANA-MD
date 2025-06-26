@@ -132,11 +132,11 @@ jobs:
 
 <strong>NB:<strong/> This repo also generates session ID for all bots using whiskeysockets/baileys
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
-<br/>QR- WEB - PAIR CODE FOR BOT WITH WHISKEYSOCKETS/BAILEYS
+<br/>KING JANA MD ❤️‍🩹🥺 WHATSAPP BOT INSTEAD 😙💦
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 <p align="center">
    <a href="https://github.com/MASTER-JANA">
-    <img src="https://files.catbox.moe/334aac.jpg" width="500">
+    <img src="https://i.ibb.co/cSY6NwS4/4768.jpg" width="500">
      
 </a>
  <p align="center"><img src="https://profile-counter.glitch.me/{Itxxwasi}/count.svg" alt="xcelsama:: Visitor's Count" /></p>
